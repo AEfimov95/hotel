@@ -1,0 +1,23 @@
+.logo {
+    width: 105px;
+    height: 40px;
+    margin-left: 140px;
+}
+.logo_main {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 30px;
+    top: 30px;
+}
+.logo_header {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle
+}
+.brand_header {
+    width: 53px;
+    height: 12px;
+    color: #1F2041;
+    vertical-align: middle
+}
