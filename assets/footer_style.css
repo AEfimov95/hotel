@@ -42,6 +42,7 @@ li {
 
 }
 .footer_mobile {
+    display: none;
     width: 768px;
     height: 367px;
     margin-left: auto;
@@ -192,4 +193,12 @@ li {
     margin: auto;
     padding-top: 25px;
     vertical-align: middle
+}
+@media (max-width: 900px) {
+    .footer_main {
+        display: none;
+    }
+    .footer_mobile {
+        display: block;
+    }
 }
